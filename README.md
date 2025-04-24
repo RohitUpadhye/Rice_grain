@@ -36,12 +36,19 @@ pip install -r requirements.txt
 All dependencies are listed in requirements.txt. 
 
 tensorflow
+---
 numpy
+---
 pandas
+---
 matplotlib
+---
 seaborn
+---
 scikit-learn
+---
 opencv-python
+---
 streamlit
 
 How to Run
@@ -69,9 +76,13 @@ F1-Score: Avg 0.97
 
 Confusion Matrix:
 [[2215  0   18    1   16]
+---
  [   7 2139    8   96    0]
+ ---
  [   0    0 2250    0    0]
+ ---
  [  64   21   56 2108    1]
+ ---
  [  63    0   35    0 2152]]
 
 
