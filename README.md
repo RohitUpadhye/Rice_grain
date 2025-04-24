@@ -39,17 +39,15 @@ tensorflow
 ---
 numpy
 ---
-pandas
+pillow
 ---
-matplotlib
----
-seaborn
+streamlit
 ---
 scikit-learn
 ---
-opencv-python
+matplotlib
 ---
-streamlit
+
 
 How to Run
 1. Train the Model
