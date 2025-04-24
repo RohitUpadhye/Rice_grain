@@ -1,6 +1,6 @@
 # Rice Grain Classification using CNN and Transfer Learning
 
-This project classifies five types of rice grains — Arborio, Basmati, Ipsala, Jasmine and Karacadag — using Convolutional Neural Networks (CNN) with Transfer Learning. 
+This project classifies five types of rice grains — Arborio, Basmati, Ipsala, Jasmine and Karacadag — using Convolutional Neural Networks (CNN). 
 ---
 
 # Project Overview
