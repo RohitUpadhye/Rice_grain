@@ -22,6 +22,7 @@ You can run this project in a virtual environment.
 
 # 1. Clone the repository
 git clone https://github.com/RohitUpadhye/Rice_grain.git
+---
 cd Rice_grain
 
 # 2. Create virtual environment
